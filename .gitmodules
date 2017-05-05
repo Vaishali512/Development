@@ -1,0 +1,4 @@
+[submodule "devops"]
+	path = devops
+	url = https://github.com/Vaishali512/Devops.git
+	branch = dev
